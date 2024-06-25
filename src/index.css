@@ -20,8 +20,11 @@ code {
 
 .container {
   display: grid;
-  grid-template-columns: auto auto;
-  padding: 10px 300px;
+  /* grid-template-columns: auto auto; */
+  display: flex;
+  /* width: 100vw; */
+  justify-content: space-evenly;
+  padding: 10px 30px;
   margin: 0 auto;
 }
 
@@ -171,7 +174,8 @@ table {
 
 td, th {
   border: 1px solid #454d55;
-  padding: 15px;
+  padding: 10px;
+  white-space: nowrap;
 }
 
 thead {
