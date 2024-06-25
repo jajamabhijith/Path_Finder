@@ -23,12 +23,12 @@ This is a pathfinding visualizer tool built with React.js that allows you to vis
 ## Usage
 
 1. **Setup:**
-   <!-- - Clone the repository: `git clone https://github.com/your/pathfinding-visualizer.git` -->
-   <!-- - Install dependencies: `cd pathfinding-visualizer && npm install` -->
+   - Clone the repository: `https://github.com/jajamabhijith/Path_Finder.git`
+   - Install dependencies: `cd pathfinding-visualizer && npm install`
 
 2. **Running the App:**
-   - Start the development server: `npm start`
-   - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+   - Start the development server: `npm run dev`
+   - Open localhost to view it in the browser.
 
 3. **Using the Tool:**
    - Select a start point and a goal point on the grid.
@@ -52,9 +52,9 @@ This is a pathfinding visualizer tool built with React.js that allows you to vis
 
 This project was inspired by the need to visualize and understand various pathfinding algorithms. Credit to the original authors of these algorithms and to the contributors of libraries used.
 
-## License
+<!-- ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details. -->
 
 
 
